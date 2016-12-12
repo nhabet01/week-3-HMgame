@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: url("../images/safaribckgrnd.jpg") no-repeat center center fixed;
+   /*-webkit-background-size: cover;*/
+   
+    background-size: cover;
+    font-size: 40px;
+
+    overflow: hidden;
+    
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.gameContainer{
+    font-weight: bolder;
+
+}
+
+#winsLosses {
+    font-weight: bolder;
+}
